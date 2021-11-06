@@ -1,0 +1,10 @@
+.content {
+    color: red;
+
+    user-select: none;
+}
+:fullscreen {
+    background-color: red;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9jc3MvYmFzZS5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7SUFDSSxVQUFVOztJQUVWLGlCQUFpQjtBQUNyQjtBQUNBO0lBQ0kscUJBQXFCO0FBQ3pCIiwiZmlsZSI6InJlc3VsdC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuY29udGVudCB7XG4gICAgY29sb3I6IHJlZDtcblxuICAgIHVzZXItc2VsZWN0OiBub25lO1xufVxuOmZ1bGxzY3JlZW4ge1xuICAgIGJhY2tncm91bmQtY29sb3I6IHJlZDtcbn1cbiJdfQ== */
