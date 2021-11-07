@@ -68,7 +68,7 @@ module.exports = {
                         loader: 'url-loader',
                         options: {
                             // 更改保存文件名称设置,可以更改保存路径
-                            name: 'img/[name].[hash:6].png'
+                            name: 'img/[name].[hash:6].[ext]'
                         }
                     }
                     
